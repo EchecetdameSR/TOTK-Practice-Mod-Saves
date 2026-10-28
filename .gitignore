@@ -1,0 +1,20 @@
+# Systeme
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires et editeur
+*.tmp
+*.bak
+*.log
+.vscode/
+.idea/
+
+# Archives de build (les zips vont dans les Releases, pas dans le repo)
+*.zip
+*.7z
+*.rar
+
+# Fichiers du jeu extraits (ne pas versionner les fichiers originaux de Nintendo)
+romfs_dump/
+game_dump/
