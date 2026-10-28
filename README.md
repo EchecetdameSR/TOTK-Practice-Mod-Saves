@@ -10,8 +10,6 @@ Updated practice saves for the Tears of the Kingdom Practice Mod. Based on the P
 
 The patch is now applied.
 
-**Note:** This patch modifies a total of **42 files**. 
-
 ## Credits
 Based on the TotK Speedrun Practice Mod v3.0 by Echocolat
 (https://gamebanana.com/mods/594672), used with permission.
