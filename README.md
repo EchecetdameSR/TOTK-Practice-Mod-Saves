@@ -8,5 +8,6 @@ Based on the TotK Speedrun Practice Mod v3.0 by Echocolat
 Key author: [Echocolat](https://github.com/Echocolat)
 
 Contributors: dt13269 (AINB, AINB library), MrMystery (Starlight)
+
 Special thanks: Echecetdame (original idea), aquacluck (lotuskit, NX editor),
 Aergyl (glitch research), leoetlino / zeldamods (EventEditor)
